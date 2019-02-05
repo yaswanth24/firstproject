@@ -9,3 +9,4 @@ def perfectFunc():
     else:
         print("{} is not a perfect number".format(n))
 perfectFunc()
+#ufdjnougohldgnoiviflkjvrihvnoirhgvnbrvijkfjnoi
